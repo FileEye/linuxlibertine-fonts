@@ -1,0 +1,7 @@
+{
+    "name": "fileeye/linuxlibertine-fonts",
+    "type": "library",
+    "description": "Linux Libertine and Biolinum fonts repackaged for Composer builds.",
+    "homepage": "https://github.com/FileEye/linuxlibertine-fonts",
+    "license": "GPL-2.0-or-later"
+}
